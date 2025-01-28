@@ -1,8 +1,8 @@
-import java.util.sc;
+import java.util.Scanner;
 
 public class Program_4_3_Integer_In_decreasing_order {
     public static void main(String[] args) {
-        sc sc = new sc(System.in);
+        Scanner sc = new Scanner(System.in);
 
         
         System.out.print("Enter the first integer: ");
